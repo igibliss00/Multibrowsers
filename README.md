@@ -9,7 +9,7 @@ Portrait mode in an iPad uses the Regular class size:
 
 When an iPad is in a landscape mode and the apps are split 50/50, the size class comes Compact:
 
-<img src="https://github.com/igibliss00/Multibrowsers/blob/master/README_assets/2.png" width="400">
+<img src="https://github.com/igibliss00/Multibrowsers/blob/master/README_assets/2.png" height="400">
 
 ## Features
 
